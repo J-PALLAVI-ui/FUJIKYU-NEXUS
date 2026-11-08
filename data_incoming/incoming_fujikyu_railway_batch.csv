@@ -1,0 +1,8 @@
+Date,Station_Name,Ridership,Ticket_Sales_JPY,Lateness_Min
+2026-03-01,Kawaguchiko,1850,2183000,1.5
+2026-03-01,Kawaguchiko,1850,2183000,1.5
+2026-03-02,Mt. Fuji,1420,1675600,0.0
+2026-03-03,Otsuki,2100,2478000,3.2
+2026-03-04,Shimoyoshida,780,920400,0.5
+2026-03-04,Shimoyoshida,780,920400,0.5
+2026-03-05,,650,-500,2.0
